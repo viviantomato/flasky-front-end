@@ -24,7 +24,7 @@ const BreakfastList = ({breakfastData}) => {
             </li>
         )
     });
-    
+    // render
     return (
         <ul>
             {breakfastComponents}
